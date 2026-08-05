@@ -1,0 +1,7 @@
+PYTHON=FEATURES:
+Class = Blueprint for creating objects. ✅
+Attributes = Class variables (data members) that store an object's properties. 
+Encapsulation = Wrapping data and methods together and restricting direct access to data (data hiding/security). 
+Polymorphism = One interface, different implementations (same method behaves differently for different objects). 
+Inheritance = A child class inherits properties and methods from a parent class. 
+Abstraction = Hiding implementation details and showing only the essential features. 
